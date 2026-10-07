@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to React",
+    "category": "React",
+    "description": "Learn the basics of React, components, JSX and reusable UI."
+  },
+  {
+    "id": 2,
+    "title": "Understanding JavaScript ES6",
+    "category": "JavaScript",
+    "description": "Explore modern JavaScript features such as arrow functions and destructuring."
+  },
+  {
+    "id": 3,
+    "title": "Getting Started with CSS",
+    "category": "CSS",
+    "description": "Learn how CSS is used to style and structure beautiful web pages."
+  },
+  {
+    "id": 4,
+    "title": "React Props and State",
+    "category": "React",
+    "description": "Understand how props and state make React applications dynamic."
+  },
+  {
+    "id": 5,
+    "title": "JavaScript Array Methods",
+    "category": "JavaScript",
+    "description": "Learn useful methods such as map, filter and reduce."
+  },
+  {
+    "id": 6,
+    "title": "Responsive Web Design",
+    "category": "CSS",
+    "description": "Learn how to make websites work properly on different screen sizes."
+  }
+]
